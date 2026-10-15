@@ -1,2 +1,0 @@
-# tin-h-c
-tinn
